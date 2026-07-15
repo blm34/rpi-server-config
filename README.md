@@ -29,3 +29,10 @@ sudo make apt
 Defines the behaviour of unattended upgrades used to automatically
 update packages managed by apt.
 
+## UFW
+
+```bash
+sudo make ufw
+```
+
+Sets the firewall behaviour.
